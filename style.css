@@ -1,0 +1,93 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif 'poppins';
+  color: #08e100;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.row{
+  width: 1150px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.57);
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.container{
+  width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.logolim{
+  width: 200px;
+}
+
+.logotext{
+  font-size: 28px;
+  font-weight: normal;
+  display: block;
+}
+
+.container2{
+  width: 1000px;
+  margin: auto;
+
+}
+
+.container3{
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #08e100;
+}
+
+.monopattino{
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+.container4{
+  width: 1000px;
+  margin: auto;
+  color: white;
+}
+
+.arrow:after{
+  content: "\21A6";
+}
+
+
+.linea1{
+  border: 10px solid green;
+  border-radius: 5px;
+  width: 25%;
+  display: block;
+  border-color: #f8b952;
+
+}
+
+.linea2{
+  border: 10px solid green;
+  border-radius: 5px;
+  width: 60%;
+  display: block;
+  border-color: #1fc216;
+}
+
+.linea3{
+  border: 10px solid green;
+  border-radius: 5px;
+  width: 10%;
+  display: block;
+  border-color: #bc403e;
+
+}
