@@ -3,6 +3,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'poppins', sans-serif;
+  src: url(Poppins-Regular.ttf);
   color: #08e100;
   font-size: 13px;
   font-weight: 300;
